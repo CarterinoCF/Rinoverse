@@ -1,0 +1,10 @@
+{
+  "name": "Rinoverse",
+  "description": "A 100% local, real-time multi-agent AI Companion running on FastAPI and React, optimized for RTX 5090 with WebSockets, Kokoro TTS, Faster-Whisper, and ChromaDB.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ],
+  "majorCapabilities": []
+}
